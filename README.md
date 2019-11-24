@@ -13,6 +13,7 @@ This repo contains sample C++ implementations of data structures and sorting alg
 - [Template Stack](https://github.com/mattcwalsh)
 - [Expression Tree](https://github.com/mattcwalsh)
 - [AVL Tree](https://github.com/mattcwalsh)
+- [Hash Table](https://github.com/mattcwalsh/sample-data-structures/tree/master/data-structures/hash-tables)
 
 ### Sorting Algorithms
 - [Selection Sort](https://github.com/mattcwalsh)
