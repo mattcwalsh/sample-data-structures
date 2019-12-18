@@ -20,6 +20,8 @@ This repo contains sample C++ implementations of data structures and sorting alg
 - [Insertion Sort](https://github.com/mattcwalsh)
 - [Bubble Sort](https://github.com/mattcwalsh)
 - [Merge Sort](https://github.com/mattcwalsh)
+- [Quick Sort](https://github.com/mattcwalsh)
+- [Tree Sort](https://github.com/mattcwalsh)
 - [Heap Sort](https://github.com/mattcwalsh)
 
 ## Metadata/Contact
